@@ -1,0 +1,88 @@
+/* Wireframe Activity */
+
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+	font-size: 18px;
+	width: 960px;
+
+}
+
+header {
+  padding: 30px;
+  margin-bottom: 10px;
+  content: #ebebeb;
+  background-color: #777;
+}
+
+nav {
+	padding: 30px;
+  	margin-bottom: 20px;
+  	content: #ebebeb;
+  	background-color: #777;
+}
+
+#left {
+	float: left;
+	margin-bottom: 20px;
+	width: 470px;
+	height: 266px;
+	content: #ebebeb;
+  	background-color: #777;
+  	padding-top: 50px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	padding-bottom: 10px;
+
+}
+
+#article {
+	clear: both;
+	overflow: auto;
+	background-color: #fff;
+	padding: 10px;
+	margin-top: 28px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+
+}
+
+#text-1 {
+	background-color: #777;
+	padding: 12px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+
+#text-2 {
+	background-color: #777;
+	padding: 12px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+
+#right {
+	float: right;
+	margin-bottom: 20px;
+	width: 470px;
+	height: 266px;
+	content: #ebebeb;
+  	background-color: #777;
+  	padding-top: 50px;	
+}
+
+footer {
+	clear: both;
+	overflow: auto;
+	padding: 30px;
+	content: #ebebeb;
+  	background-color: #777;
+}
